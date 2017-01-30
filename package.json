@@ -1,0 +1,15 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "node calculator app",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Clarke",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "mathjs": "^3.9.0"
+  }
+}
